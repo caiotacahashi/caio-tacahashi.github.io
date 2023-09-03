@@ -1,0 +1,36 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  /* background-color: black; */
+  margin: 20px 200px;
+  background-color: #e8e8e8;
+}
+
+#profile_name {
+  color: black;
+  text-align: center;
+}
+
+.city {
+  font-style: italic;
+}
+
+a[href="mailto:caiotacahashi@alunos.utfpr.edu.br"] {
+  background-color: yellow;
+}
+
+a[href="mailto:caiotacahashi@alunos.utfpr.edu.br"]:hover {
+  background-color: red;
+}
+
+.hability_option {
+  text-decoration: underline;
+}
+
+.profile_github {
+  background-color: green;
+}
+
+.footer {
+  text-align: center;
+  font-weight: 600;
+}
